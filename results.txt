@@ -1,0 +1,14 @@
+EcosystemSim NaN
+APCS NaN
+untitled NaN
+ForestFireSim2020 NaN
+ForestFireSim2021 NaN
+ForestFire NaN
+FileIO NaN
+Sandbox NaN
+FileIO2 NaN
+Problems NaN
+saveGame.txt -30.674999999999983
+.DS_Store NaN
+NewForestFire NaN
+FoxesAndRabbitsTemplate NaN
